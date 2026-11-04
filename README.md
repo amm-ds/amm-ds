@@ -1,15 +1,41 @@
 # Alejandro Mérida Maroto — amm-ds
 
-**Independent ML/AI consultant.** I design, build and evaluate ML systems end to
-end — data contracts and reproducible pipelines, models judged against named
-baselines, evaluation harnesses that state their limits, and the APIs and
-containers that serve them — and I keep the working code public.
+**Independent ML/AI consultant.** I design, build and ship machine learning and AI
+systems end to end — from data contracts and reproducible pipelines to trained
+models, evaluation harnesses, and the APIs and containers that serve them —
+with the engineering discipline that keeps them operable long after handover.
 
-- 🗂️ **Portfolio:** [amm-ds.github.io/portfolio](https://amm-ds.github.io/portfolio/) — thirteen end-to-end systems, each with a naive baseline, an honest delta, and live demos over committed data
-- 🖥️ **Showcase:** FastAPI + React + TypeScript — live forecasting, scoring and routing demos served by one API (`deploy/DEPLOY.md` for the containerized cutover)
-- 🤖 **Focus:** agentic AI & RAG (typed tools, structured outputs), forecasting and decisioning under uncertainty, optimization, model serving & cost engineering, uplift & experimentation
-- 🧭 **Method:** every claim traces to a committed artifact — pipelines re-run from a clean clone, limits stated next to the results, costs measured per release
+## Capabilities
 
-Selected work: **Tabular ML lifecycle → serving** (PyTorch MLP champion at 25.4 vs 83.2 MAE against the seasonal floor, leakage-guarded, then ONNX-exported and served at p50 1.6 ms with a parity gate and a multi-stage Docker image) · **Urban mobility demand intelligence** (41.2M trips, −28.3% forecast error, drift observatory) · **Agentic workflows** (deterministic evals, budgeted tool use) · **DataFrame engines benchmark** (pandas / Polars / DuckDB / sqlite, row-parity gated, 1M–10M-row scaling study)
+- **Applied ML & deep learning** — forecasting, classification and decision
+  models, trained and selected against named baselines, with errors priced in
+  business terms rather than raw accuracy
+- **Agentic AI & LLM systems** — assistants and agents that answer from your
+  documents, cite every claim, and stay inside fixed tool, cost and latency
+  budgets
+- **Data engineering** — pipelines that turn raw operational dumps into
+  versioned, tested, analysis-ready datasets, with quality gates running in CI
+- **Optimization** — routing, scheduling and allocation problems solved under
+  real operational constraints, optimality gap stated per instance
+- **Model serving & deployment** — measured APIs (latency percentiles,
+  throughput, cost per prediction) shipped as containers, ready to deploy
 
-- 🌍 English · Spanish · Catalan — Barcelona, remote-friendly
+## How I work
+
+Every claim traces to a committed artifact: pipelines re-run from a clean
+clone, limits stated next to the results, costs measured per release. Tests,
+reviews and reproducibility are part of the deliverable, not an afterthought.
+
+## Where to look
+
+- 🌐 **Website & case studies:** [amm-ds.github.io/portfolio](https://amm-ds.github.io/portfolio/) —
+  thirteen end-to-end systems with live demos, honest baselines and the full
+  path from data to production
+- 💼 **Services:** the offerings behind the case studies — machine learning,
+  agentic AI, data engineering, optimization, serving and deployment — on the
+  site's [services](https://amm-ds.github.io/portfolio/services/) page
+- 🖥️ **This profile's code:** [github.com/amm-ds/portfolio](https://github.com/amm-ds/portfolio) —
+  monorepo with the pipelines, the FastAPI showcase and the React front end
+- 📫 **Contact:** via the website or GitHub — replies within 24h on business days
+
+🌍 English · Spanish · Catalan — Barcelona, remote-friendly
