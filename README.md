@@ -1,14 +1,15 @@
 # Alejandro Mérida Maroto — amm-ds
 
-**Data Scientist & ML Engineer.** I build ML/AI systems end to end — from data
-contracts and reproducible pipelines to measured evaluation, serving, and
-monitoring — and I keep the working code public.
+**Independent ML/AI consultant.** I design, build and evaluate ML systems end to
+end — data contracts and reproducible pipelines, models judged against named
+baselines, evaluation harnesses that state their limits, and the APIs and
+containers that serve them — and I keep the working code public.
 
-- 🗂️ **Portfolio:** [amm-ds.github.io/portfolio](https://amm-ds.github.io/portfolio/) — ten case studies, each with a naive baseline, an honest delta, and interactive figures
-- 🖥️ **Showcase app:** FastAPI + React — live forecast/score/solve endpoints (`deploy/DEPLOY.md`)
-- 🤖 **Focus:** agentic AI & RAG (pydantic-ai), forecasting, optimization (VRPTW), inference serving & cost engineering, experimentation & uplift
-- 🌍 **Languages:** English, Spanish · **Location-independent**, open to freelance and contract work
+- 🗂️ **Portfolio:** [amm-ds.github.io/portfolio](https://amm-ds.github.io/portfolio/) — thirteen end-to-end systems, each with a naive baseline, an honest delta, and live demos over committed data
+- 🖥️ **Showcase:** FastAPI + React + TypeScript — live forecasting, scoring and routing demos served by one API (`deploy/DEPLOY.md` for the containerized cutover)
+- 🤖 **Focus:** agentic AI & RAG (typed tools, structured outputs), forecasting and decisioning under uncertainty, optimization, model serving & cost engineering, uplift & experimentation
+- 🧭 **Method:** every claim traces to a committed artifact — pipelines re-run from a clean clone, limits stated next to the results, costs measured per release
 
-Flagships: **Urban mobility demand intelligence** (41.2M trips, −28.4% MAE, drift observatory) ·
-**RAG & agentic assistant** (verify-then-answer loop, hosted-vs-local A/B with metered cost) ·
-**Agentic workflows** (pydantic-graph Plan→Execute→Critique, per-call tool traces, deterministic evals)
+Selected work: **Tabular ML lifecycle → serving** (PyTorch MLP champion at 25.4 vs 83.2 MAE against the seasonal floor, leakage-guarded, then ONNX-exported and served at p50 1.6 ms with a parity gate and a multi-stage Docker image) · **Urban mobility demand intelligence** (41.2M trips, −28.3% forecast error, drift observatory) · **Agentic workflows** (deterministic evals, budgeted tool use) · **DataFrame engines benchmark** (pandas / Polars / DuckDB / sqlite, row-parity gated, 1M–10M-row scaling study)
+
+- 🌍 English · Spanish · Catalan — Barcelona, remote-friendly
