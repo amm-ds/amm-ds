@@ -28,12 +28,12 @@ reviews and reproducibility are part of the deliverable, not an afterthought.
 
 ## Where to look
 
-- 🌐 **Website & case studies:** [amm-ds.github.io/portfolio](https://amm-ds.github.io/portfolio/) —
+- 🌐 **Website & case studies:** [alejandromerida.dev](https://alejandromerida.dev/) —
   thirteen end-to-end systems with live demos, honest baselines and the full
   path from data to production
 - 💼 **Services:** the offerings behind the case studies — machine learning,
   agentic AI, data engineering, optimization, serving and deployment — on the
-  site's [services](https://amm-ds.github.io/portfolio/services/) page
+  site's [services](https://alejandromerida.dev/services) page
 - 🖥️ **This profile's code:** [github.com/amm-ds/portfolio](https://github.com/amm-ds/portfolio) —
   monorepo with the pipelines, the FastAPI showcase and the React front end
 - 📫 **Contact:** via the website or GitHub — replies within 24h on business days
